@@ -1,0 +1,34 @@
+﻿# ASSETS USED IN FINAL PROJECT
+
+## Images
+Content/background.png - created by Aidan Harries using Aesprite
+Content/mainMenuBackground.png - created by Aidan Harries using Aesprite
+Content/ball.png - created by Aidan Harries using Aesprite
+Content/fade.png - created by Aidan Harries using Aesprite
+Content/skull.png - created by Aidan Harries using Aesprite
+Content/nuke.png - created by Aidan Harries using Aesprite
+Content/Player/player.png - created by Aidan Harries using Aesprite
+Content/Player/playerDown.png - created by Aidan Harries using Aesprite
+Content/Player/playerLeft.png - created by Aidan Harries using Aesprite
+Content/Player/playerRight.png - created by Aidan Harries using Aesprite
+Content/Player/playerUp.png - created by Aidan Harries using Aesprite
+Content/healthUI.png - created by HochuPitsu under the Creative Commons Zero License
+	- Source: https://hochupitsu.itch.io/heart-and-mana
+
+## Audio
+Content/backgroundMusic.mp3 - created by Juhani Junkala under Creative Commons Zero License
+Content/backgroundMusic2.mp3 - created by Juhani Junkala under Creative Commons Zero License
+Content/backgroundMusic2.mp3 - created by Juhani Junkala under Creative Commons Zero License
+	- Source: https://juhanijunkala.bandcamp.com/album/platformer-chiptunes
+Content/explosion.wav - created by Aidan Harries using jsfxr
+Content/hurt.wav - created by Aidan Harries using jsfxr
+Content/pickupHeart.wav - created by Aidan Harries using jsfxr
+Content/shoot.wav - created by Aidan Harries using jsfxr
+
+## Fonts
+- Content/LanaPixel.ttf: LanaPixel font created by eishiya.
+  - License: Open Font License (OFL)
+  - Source: https://opengameart.org/content/lanapixel-localization-friendly-pixel-font
+- Content/CompassProLarge.ttf: Compass Pro font created by Humble Fonts
+  - License: Royalty Free
+  - Source: https://somepx.itch.io/humble-fonts-free

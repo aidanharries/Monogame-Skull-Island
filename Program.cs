@@ -1,3 +1,3 @@
 ﻿
-using var game = new Skull_Island.Game1();
+using var game = new Skull_Island.Skull_Island();
 game.Run();
