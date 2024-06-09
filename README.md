@@ -29,7 +29,3 @@ In Skull Island, players navigate a character around the island, avoiding enemie
 ## Play the Game
 
 You can play Skull Island on itch.io: [Skull Island Game](https://aidanharries.itch.io/skull-island-game)
-
-## Repository
-
-The source code for this project can be found at: [GitHub Repository](https://github.com/your-repository-link)
